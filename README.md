@@ -23,8 +23,10 @@ Or in bibtex style:
 ```
 
 ## Figures
-![ImageNet Accuracy](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/tree/master/Figures/Image_acc.png)
+![ImageNet Accuracy](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/blob/master/Figures/Image_acc.png)
 ![ImageNet Accuracy and Memory](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/tree/master/Figures/top_1_acc_mem2.png)
+
+![](https://github.com/heaventian93/MDAIR/blob/master/Results/office31_results.png)
 
 
 ## Results
