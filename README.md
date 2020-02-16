@@ -48,3 +48,10 @@ Or in bibtex style:
 <p align="center"> Correlation and R square value of Office-Home dataset </p>
 
 
+<img src="./Figures/OC.png" width="100%">
+
+<p align="center">
+  <img src="./Figures/O31.png" width="50%">
+</p>
+
+<img src="./Figures/OH.png" width="100%">
