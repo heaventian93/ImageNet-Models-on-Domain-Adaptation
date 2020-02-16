@@ -27,6 +27,24 @@ Or in bibtex style:
 
 <p align="center">ImageNet Accuracy & Parameters & Memory</p>
 
+<img src="./Figures/tsne2.png" width="100%"> 
+
+<p align="center"> T-SNE view of extracted features of Amazon domain in the Office31 dataset</p>
+
+<p align="center">
+  <img src="./Figures/loss2.png" width="50%">
+</p>
+
+<p align="center"> T-SNE loss of sixteen neural networks of domain Amazon in the office31 dataset</p>
 
 ## Results
+<img src="./Figures/OC_all.png" width="100%"> 
+<p align="center"> Correlation and R square value of Office+Caltech-10 dataset </p>
+
+<img src="./Figures/O31_all.png" width="100%"> 
+<p align="center"> Correlation and R square value of Office31 dataset </p>
+
+<img src="./Figures/OH_all_2.png" width="100%">
+<p align="center"> Correlation and R square value of Office-Home dataset </p>
+
 
