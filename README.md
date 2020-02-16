@@ -1,11 +1,11 @@
 # Impact-of-ImageNet-Model-Selection-on-Domain-Adaptation
 
-This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/pdf/2002.02559.pdf) published at In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
+This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/pdf/2002.02559.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 
 
 ### Reference
 
-If you find this code helpful, please cite it as:
+If you find it is helpful, please cite it as:
 
 `
 Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection on Domain Adaptation. In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
