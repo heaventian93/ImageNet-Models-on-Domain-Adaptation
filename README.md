@@ -24,7 +24,7 @@ Or in bibtex style:
 
 ## Figures
 ![ImageNet Accuracy](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/blob/master/Figures/Image_acc.png)
-![ImageNet Accuracy and Memory](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/blob/master/Figures/top_1_acc_mem2.png=250x250)
+![ImageNet Accuracy and Memory](https://github.com/heaventian93/ImageNet-Models-on-Domain-Adaptation/blob/master/Figures/top_1_acc_mem2.png | width=100 )
 
 
 
