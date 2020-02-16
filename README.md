@@ -23,7 +23,9 @@ Or in bibtex style:
 ```
 
 ## Figures
-<img src="./Figures/Image_acc.png" width="40%"> <img src="./Figures/top_1_acc_mem2.png" width="40%">
+<img src="./Figures/Image_acc.png" width="40%">  <img src="./Figures/top_1_acc_mem2.png" width="40%"> 
+
+<p align="center">ImageNet Accuracy & Parameters & Memory</p>
 
 
 ## Results
