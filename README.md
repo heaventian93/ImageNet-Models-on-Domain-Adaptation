@@ -1,5 +1,5 @@
 # Impact-of-ImageNet-Model-Selection-on-Domain-Adaptation
-
+<hr width=”200″ align=”left”>
 This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/pdf/2002.02559.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 
 
