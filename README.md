@@ -16,6 +16,7 @@ Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection
 `
 Zhang, Y., & Davison, B. D. (2019). Modified distribution alignment for domain adaptation with pre-trained inception resnet. arXiv preprint arXiv:1904.02322.
 `
+
 Or in bibtex style:
 
 ```
