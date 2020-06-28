@@ -1,8 +1,11 @@
 # Impact-of-ImageNet-Model-Selection-on-Domain-Adaptation
 <!--  <hr width=”200″ align=”left”>  -->
-This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/pdf/2002.02559.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
+This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](http://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 
+And the code for paper [Modified Distribution Alignment for Domain Adaptation with Pre-trained Inception
+ResNet](https://arxiv.org/pdf/1904.02322.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 
+If you have any questions, please email to yoz217@lehigh.edu
 ### Reference
 
 If you find it is helpful, please cite it as:
