@@ -34,6 +34,13 @@ Or in bibtex style:
 }
 ```
 
+### To run the code
+
+Open Matlab (Matlab2017a version or later should be fine)
+
+Run ImageNet_Model_Selection.m
+
+
 ## Figures
 <img src="./Figures/Image_acc.png" width="45%">  <img src="./Figures/top_1_acc_mem2.png" width="45%"> 
 
