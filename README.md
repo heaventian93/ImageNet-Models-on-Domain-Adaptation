@@ -3,7 +3,7 @@
 This directory contains the code for paper [Impact of ImageNet Model Selection on Domain Adaptation](http://openaccess.thecvf.com/content_WACVW_2020/papers/w3/Zhang_Impact_of_ImageNet_Model_Selection_on_Domain_Adaptation_WACVW_2020_paper.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 
 And the code for paper [Modified Distribution Alignment for Domain Adaptation with Pre-trained Inception
-ResNet](https://arxiv.org/pdf/1904.02322.pdf), which is accepted by In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
+ResNet](https://arxiv.org/pdf/1904.02322.pdf).
 
 If you have any questions, please email to yoz217@lehigh.edu
 ### Reference
@@ -13,7 +13,9 @@ If you find it is helpful, please cite it as:
 `
 Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection on Domain Adaptation. In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 `
-
+`
+Zhang, Y., & Davison, B. D. (2019). Modified distribution alignment for domain adaptation with pre-trained inception resnet. arXiv preprint arXiv:1904.02322.
+`
 Or in bibtex style:
 
 ```
@@ -22,6 +24,12 @@ Or in bibtex style:
   author={Zhang, Youshan and Davison, Brian D},
   booktitle={In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW)},
   year={2020}
+}
+@article{zhang2019modified,
+  title={Modified distribution alignment for domain adaptation with pre-trained inception resnet},
+  author={Zhang, Youshan and Davison, Brian D},
+  journal={arXiv preprint arXiv:1904.02322},
+  year={2019}
 }
 ```
 
