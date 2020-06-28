@@ -35,7 +35,7 @@ for ii = 1:size(str_domains_Office_caltech_10,2)
         Ys = double(labels);           clear labels
         
        
-        load(['./',datasets{1},'/',tgt, '_nasnetlarge_global_average_pooling2d.mat']);     % source domain 
+        load(['./',datasets{1},'/',tgt, '_nasnetlarge_global_average_pooling2d.mat']);     % target domain 
         Xt = double(features);                 clear features
         Yt = double(labels);           clear labels
         
@@ -51,7 +51,7 @@ for ii = 1:size(str_domains_Office_caltech_10,2)
 end
 
 
-%% add mean at last column
+%% Add mean at last column
 all_tasks(task)=mean(all_tasks);
 disp(['Mean accuracy is ', num2str(roundn(all_tasks(end),-1))])
       
