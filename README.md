@@ -13,6 +13,7 @@ If you find it is helpful, please cite it as:
 `
 Zhang, Youshan, and Brian D. Davison. (2020). Impact of ImageNet Model Selection on Domain Adaptation. In 2020 IEEE Winter Applications of Computer Vision Workshops (WACVW).
 `
+
 `
 Zhang, Y., & Davison, B. D. (2019). Modified distribution alignment for domain adaptation with pre-trained inception resnet. arXiv preprint arXiv:1904.02322.
 `
